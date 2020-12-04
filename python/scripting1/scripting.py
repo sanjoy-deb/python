@@ -7,9 +7,9 @@ Thank You
 '''
 #The mail addresses and password
 
-sender_address = 'sanjoydeb0007@gmail.com'
-sender_pass = 'sanjoyFN001'
-receiver_address = 'sanjoykumardeb12@gmail.com'
+sender_address = 'sanjo7@gmail.com'
+sender_pass = 'sanjo'
+receiver_address = 'san@gmail.com'
 #Setup the MIME
 
 message = MIMEMultipart()
